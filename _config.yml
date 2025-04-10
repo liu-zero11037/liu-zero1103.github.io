@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jinlin(Zero) Liu / Site Title"
+title                    : "Jinlin(Zero) Liu"
 title_separator          : "-"
 name                     : &name "Jinlin Liu"
 description              : &description "Research Technician in Brain Game Center at Northeastern University"
-url                      : https://liu-zero1103.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://liu-zero11037.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "liu-zero1103.github.io"
+repository               : "liu-zero11037/liu-zero11037.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
